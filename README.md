@@ -1,8 +1,14 @@
-## Hi there 👋
+## Hi there Renny Delgado👋
+<div aling="center">
+<img src="https://rdelgado.net/img/fondo_2.jpg">
 
+<h2>Sobre Mi</h2>
+WEB Developer <br>
+Wordpress <br>
+ReacNative <br>
+</div>
 <!--
 **RennyDelgado/RennyDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
