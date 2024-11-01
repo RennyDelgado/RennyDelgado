@@ -4,7 +4,7 @@
 <img src="https://rdelgado.net/img/fondo_2.jpg">
 
 <h2>Sobre Mi</h2>
-WEB Developer <br>
+WEB Developer PHP<br>
 Wordpress <br>
 ReacNative <br>
 </div>
