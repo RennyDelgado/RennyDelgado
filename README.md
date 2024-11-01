@@ -1,4 +1,4 @@
-## Hi there Renny Delgado👋
+DISCIPLINE, SACRIFICE AND BRAVE
 <div aling="center">
 <img src="https://rdelgado.net/img/fondo_2.jpg">
 
