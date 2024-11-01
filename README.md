@@ -1,5 +1,6 @@
-DISCIPLINE, SACRIFICE AND BRAVE
+
 <div aling="center">
+  DISCIPLINE, SACRIFICE AND BRAVE
 <img src="https://rdelgado.net/img/fondo_2.jpg">
 
 <h2>Sobre Mi</h2>
